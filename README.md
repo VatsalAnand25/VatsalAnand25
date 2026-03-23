@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vatsal Anand</h1>
-<h3 align="center">🚀 Computer Science Undergraduate | IoT | Robotics | Computer Vision Enthusiast</h3>
+<h3 align="center">🚀 Computer Science Undergraduate | IoT | Robotics </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VatsalAnand25&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-- 🎓 B.Tech CSE @ SOA University (2023–2027) | CGPA: 8.79  
+- 🎓 B.Tech CSE  
 - 💡 Passionate about **IoT, Robotics, and Computer Vision**  
 - 🛠️ Love building **real-world problem-solving systems**  
 - 📚 Currently focusing on **DSA & Backend Development**  
